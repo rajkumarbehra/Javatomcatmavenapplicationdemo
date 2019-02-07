@@ -89,7 +89,7 @@
           <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="thumbnail.svg" alt="Card image cap">
+                <img class="card-img-top" src="IMG_4051.JPG" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">This test changed by Rajkumar Behrat. This content is a little bit longer.</p>
                   <div class="d-flex justify-content-between align-items-center">
