@@ -5,10 +5,7 @@ Deployed Github Job
 Auto deployment pipeline ..Rajkumar
 
 Added---
-ava-tomcat-maven-example
-This is an example ready-to-deploy java web application built for Tomcat using Maven and webapp-runner.
 
-RunniHow This Was Built
 Generate the project using a Maven archetype:
 
 mvn archetype:generate -DarchetypeArtifactId=maven-archetype-webapp
